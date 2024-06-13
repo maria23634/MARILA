@@ -1,0 +1,28 @@
+
+body {font-family: arial,sans-serif;
+line-height: 2;
+margin: 0;
+padding: 0;
+background-color: azure;
+color: rgb(155, 233, 178);}
+
+header {display:flex;
+align-items: center;
+background-color:darkgreen;
+padding: 20px;
+color:darkseagreen;}
+
+
+header img{width: 80px;
+height: auto;
+margin-right: 20px;}
+
+
+header h1 {font-size: 2em;
+margin:0;
+flex-grow: 1;}
+
+HEADER P{margin:0 10px;
+cursor:pointer;
+color: palegreen;}
+headerp: p:hover{text-decoration:underline;}
